@@ -18,7 +18,7 @@ const App = () => {
 
       if (solana && solana.isPhantom) {
           console.log('Phantom wallet found!');
-          alert('Solana object not found! Get a Phantom Wallet 👻');
+          alert('Solana object found!👻');
       } else {
         alert('Solana object not found! Get a Phantom Wallet 👻');
       }
