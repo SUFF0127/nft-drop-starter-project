@@ -1,0 +1,19 @@
+{
+  "name": "Bambang",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "Ekbk4D5PtwWCCZw7cGNosfR498WyY5qK2L8EosXqUg6q",
+        "share": 100
+      }
+    ]
+  }
+}
